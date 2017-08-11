@@ -60,7 +60,7 @@ print("Greatest Decrease Revenue: "+ str(Greatest_decrease_Revenue))
 
 #output in txt
 
-f=open("output.txt","w+");
+f=open("output.txt","w+")
 
 f.write("Financial Analysis\n")
 f.write("----------------------------\n")

@@ -1,6 +1,8 @@
 #task to read csv file
 import csv
 
+f=open("output.txt",'w+')
+outputStr = []
 with open('election_data_2.csv') as csv_file:
     
     read_file =csv.reader(csv_file, delimiter=',')
@@ -25,17 +27,21 @@ candidates=candidates[1:]
 
 #task to calculate total votes
 total_votes=len(voter_ids)
-print("Total Votes :" +str(total_votes))
+outputStr.append("Total Votes :" +str(total_votes)+"\n")
+outputStr.append("----------------------------------\n")
 
 #complete list of candidates who received votes
 candidate_unique=[]
+# total number of votes each candidate won
 
 
 for i in candidates:    
     if i not in candidate_unique:        
         candidate_unique.append(i)
-        print(i)        
+        #print(i)        
 
+
+#percentage of votes each candidate won
 for i in candidate_unique:
     counter=0    
     for j in candidates:        
@@ -44,15 +50,23 @@ for i in candidate_unique:
     percent=round((counter/total_votes)*100,2)
     percentage.append(percent)
     winner.append(i)
-    print("The total count of votes for " +i+ "is :" +str(counter)+" and percentage of vote is : "+ str(percent) +"%")
+    outputStr.append(i +" , "+str(counter)+" , "+ str(percent) +"% \n")
 
 maxpercent=max(percentage)
 index1=percentage.index(maxpercent)
-winner_candidate=winner[index1]
 
-print("the winner is : "+winner_candidate)
-            
-
-#percentage of votes each candidate won
-# total number of votes each candidate won
 #winner
+winner_candidate=winner[index1]
+outputStr.append("----------------------------------\n")
+outputStr.append("Winner is : "+winner_candidate+"\n")
+
+print(''.join(outputStr))
+f.write(''.join(outputStr))
+f.close()
+
+
+
+
+
+
+
