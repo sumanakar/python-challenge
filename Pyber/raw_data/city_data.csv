@@ -1,127 +1,128 @@
 city,driver_count,type
-Kelseyland,63,Urban
-Nguyenbury,8,Urban
-East Douglas,12,Urban
-West Dawnfurt,34,Urban
-Rodriguezburgh,52,Urban
-South Josephville,4,Urban
-West Sydneyhaven,70,Urban
-Travisville,37,Urban
-Torresshire,70,Urban
-Lisaville,66,Urban
-Mooreview,34,Urban
-Smithhaven,67,Urban
-Carrollfort,55,Urban
-Port Josephfurt,28,Urban
-Lake Jeffreyland,15,Urban
-South Louis,12,Urban
-West Peter,61,Urban
-Kimberlychester,13,Urban
-Alyssaberg,67,Urban
-Sarabury,46,Urban
-Yolandafurt,7,Urban
-Edwardsbury,11,Urban
-New Andreamouth,42,Urban
-New David,31,Urban
-Arnoldview,41,Urban
-Williamshire,70,Urban
-Lisatown,47,Urban
-New Aaron,60,Urban
-Swansonbury,64,Urban
-Fosterside,69,Urban
-New Jeffrey,58,Urban
-West Brittanyton,9,Urban
-Wiseborough,55,Urban
-New Maryport,26,Urban
-Lake Stevenbury,63,Urban
-New Christine,22,Urban
-Spencertown,68,Urban
-Russellport,9,Urban
-Maryside,20,Urban
-West Alexis,47,Urban
-Port Samantha,55,Urban
-Eriktown,15,Urban
-Pamelahaven,30,Urban
-Aprilchester,49,Urban
-South Roy,35,Urban
-Pearsonberg,43,Urban
-Sandymouth,11,Urban
-East Erin,43,Urban
-Port Johnstad,22,Urban
-Vickimouth,13,Urban
-Jacobfort,52,Urban
-South Bryanstad,73,Urban
-West Oscar,11,Urban
-Antoniomouth,21,Urban
-Stewartview,49,Urban
-West Brandy,12,Urban
-Davidtown,73,Urban
-Kellershire,51,Urban
-Zimmermanmouth,45,Urban
-Port Martinberg,44,Urban
-Lake Sarashire,8,Urban
-Prattfurt,43,Urban
-Davistown,25,Urban
-West Jefferyfurt,65,Urban
-Lake Jennaton,65,Urban
 Alvarezhaven,21,Urban
-Carrollbury,4,Suburban
-Williamchester,26,Suburban
-New Michelleberg,9,Suburban
-West Evan,4,Suburban
-South Gracechester,19,Suburban
-East Jenniferchester,22,Suburban
-West Paulport,5,Suburban
-New Brandonborough,9,Suburban
-Floresberg,7,Suburban
-Lake Brenda,24,Suburban
-Kyleton,12,Suburban
-Thomastown,1,Suburban
-South Shannonborough,9,Suburban
-Jeffreyton,8,Suburban
-Port Michelleview,16,Suburban
-West Pamelaborough,27,Suburban
-Sarahview,18,Suburban
-New Cindyborough,20,Suburban
-Port James,15,Suburban
-New Samanthaside,16,Suburban
-Paulfort,13,Suburban
-Jasonfort,25,Suburban
-North Tara,14,Suburban
-East Cherylfurt,9,Suburban
-Rodriguezview,10,Suburban
-Tiffanyton,21,Suburban
-Port Alexandria,27,Suburban
-South Jennifer,6,Suburban
+Alyssaberg,67,Urban
 Anitamouth,16,Suburban
-Conwaymouth,18,Suburban
-New Lynn,20,Suburban
-Port Jose,11,Suburban
-Johnland,13,Suburban
-West Tony,17,Suburban
-Port James,3,Suburban
+Antoniomouth,21,Urban
+Aprilchester,49,Urban
+Arnoldview,41,Urban
 Campbellport,26,Suburban
-Port Guytown,26,Suburban
-Webstertown,26,Suburban
+Carrollbury,4,Suburban
+Carrollfort,55,Urban
 Clarkstad,21,Suburban
-North Tracyfort,18,Suburban
-Martinmouth,5,Suburban
-New Jessicamouth,22,Suburban
-South Elizabethmouth,3,Rural
-East Troybury,3,Rural
-Kinghaven,3,Rural
-New Johnbury,6,Rural
-Erikport,3,Rural
-Jacksonfort,6,Rural
-Shelbyhaven,9,Rural
-Matthewside,4,Rural
-Kennethburgh,3,Rural
-South Joseph,3,Rural
-Manuelchester,7,Rural
-Stevensport,6,Rural
-North Whitney,10,Rural
-East Stephen,6,Rural
+Conwaymouth,18,Suburban
+Davidtown,73,Urban
+Davistown,25,Urban
+East Cherylfurt,9,Suburban
+East Douglas,12,Urban
+East Erin,43,Urban
+East Jenniferchester,22,Suburban
 East Leslie,9,Rural
+East Stephen,6,Rural
+East Troybury,3,Rural
+Edwardsbury,11,Urban
+Erikport,3,Rural
+Eriktown,15,Urban
+Floresberg,7,Suburban
+Fosterside,69,Urban
 Hernandezshire,10,Rural
 Horneland,8,Rural
-West Kevintown,5,Rural
+Jacksonfort,6,Rural
+Jacobfort,52,Urban
+Jasonfort,25,Suburban
+Jeffreyton,8,Suburban
+Johnland,13,Suburban
+Kellershire,51,Urban
+Kelseyland,63,Urban
+Kennethburgh,3,Rural
+Kimberlychester,13,Urban
+Kinghaven,3,Rural
+Kyleton,12,Suburban
+Lake Brenda,24,Suburban
+Lake Jeffreyland,15,Urban
+Lake Jennaton,65,Urban
+Lake Sarashire,8,Urban
+Lake Stevenbury,63,Urban
+Lisatown,47,Urban
+Lisaville,66,Urban
+Manuelchester,7,Rural
+Martinmouth,5,Suburban
+Maryside,20,Urban
+Matthewside,4,Rural
+Mooreview,34,Urban
+New Aaron,60,Urban
+New Andreamouth,42,Urban
+New Brandonborough,9,Suburban
+New Christine,22,Urban
+New Cindyborough,20,Suburban
+New David,31,Urban
+New Jeffrey,58,Urban
+New Jessicamouth,22,Suburban
+New Johnbury,6,Rural
+New Lynn,20,Suburban
+New Maryport,26,Urban
+New Michelleberg,9,Suburban
+New Samanthaside,16,Suburban
+Nguyenbury,8,Urban
+North Tara,14,Suburban
+North Tracyfort,18,Suburban
+North Whitney,10,Rural
+Pamelahaven,30,Urban
+Paulfort,13,Suburban
+Pearsonberg,43,Urban
+Port Alexandria,27,Suburban
+Port Guytown,26,Suburban
+Port James,15,Suburban
+Port James,3,Suburban
+Port Johnstad,3,Suburban
+Port Jose,22,Urban
+Port Josephfurt,11,Suburban
+Port Martinberg,28,Urban
+Port Michelleview,44,Urban
+Port Samantha,16,Suburban
+Prattfurt,55,Urban
+Rodriguezburgh,43,Urban
+Rodriguezview,52,Urban
+Russellport,10,Suburban
+Sandymouth,9,Urban
+Sarabury,11,Urban
+Sarahview,46,Urban
+Shelbyhaven,18,Suburban
+Smithhaven,9,Rural
+South Bryanstad,67,Urban
+South Elizabethmouth,73,Urban
+South Gracechester,3,Rural
+South Jennifer,19,Suburban
+South Joseph,6,Suburban
+South Josephville,3,Rural
+South Louis,4,Urban
+South Roy,12,Urban
+South Shannonborough,35,Urban
+Spencertown,9,Suburban
+Stevensport,68,Urban
+Stewartview,6,Rural
+Swansonbury,49,Urban
+Thomastown,64,Urban
+Tiffanyton,1,Suburban
+Torresshire,21,Suburban
+Travisville,70,Urban
+Vickimouth,37,Urban
+Webstertown,13,Urban
+West Alexis,26,Suburban
+West Brandy,47,Urban
+West Brittanyton,12,Urban
+West Dawnfurt,9,Urban
+West Evan,34,Urban
+West Jefferyfurt,4,Suburban
+West Kevintown,65,Urban
+West Oscar,5,Rural
+West Pamelaborough,11,Urban
+West Paulport,27,Suburban
+West Peter,5,Suburban
+West Sydneyhaven,61,Urban
+West Tony,70,Urban
+Williamchester,17,Suburban
+Williamshire,26,Suburban
+Wiseborough,70,Urban
+Yolandafurt,55,Urban
+Zimmermanmouth,7,Urban
+,45,Urban
