@@ -1,0 +1,118 @@
+.header{
+    background: rgb(86, 160, 152);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    float: left;
+    padding: 10px;
+    margin-top: 2px;
+    margin-left: 15px;
+    margin-bottom:0px; 
+}
+.navhear{
+    clear: both;
+}
+.navmargin{
+margin: 0px;
+}
+.navmargin{
+    margin:0px;
+    
+}
+.colorfont{
+    color: rgb(88, 192, 182);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold
+}
+.background{
+
+    background-color: rgb(207, 201, 201);
+}
+
+.footer{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    border-top: 4px solid rgb(98, 160, 98);
+}
+
+.height {
+    height:70vh;
+}
+
+.padding{
+    padding: 50px;
+    margin-right: 10px;
+}
+.img-class{
+    width: 50%;
+    float: left;
+    padding-top: 20px;
+}
+.mainpic{
+    width:40%;
+    height: 30vh;
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+
+}
+.topadding1{
+
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.topadding2{
+        padding-right: 30px;
+        padding-left: 30px;      
+}
+
+.panelpadding{
+    padding: 20px;
+}
+.fontpad{
+    padding-left:30px ;
+}
+.invpic{
+    width: 30%;
+    height:20%; 
+}
+.comparison{
+    width: 50%;
+    height: 30vh;
+    padding-right: 0px;
+    margin-right: 0px
+    
+}
+.colpadding{
+    padding: 20px;
+}
+.datapadding{
+    padding: 30px;
+}
+
+#collapse1{
+    overflow-y:scroll;
+    height:50vh;
+}
+.textpadding{
+    padding-bottom:30px;    
+}
+.tableheader{
+    font-weight: bold;
+}
+.align{
+    padding-left: 70px;
+    font-size: xx-small;
+}
+.compfont{
+
+    font-size:x-small;
+}
+
+    
+  
+ 

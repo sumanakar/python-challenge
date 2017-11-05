@@ -1,0 +1,18 @@
+.sidepanel{
+   
+ border: .5px solid grey;
+}
+
+
+.imagesize{
+
+    width: 100%;
+    height: 75vh;
+
+}
+
+.tformat{
+	padding: 5px;
+	border-style:double;
+}
+

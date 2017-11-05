@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Humidity Page</title>
+        <link rel="stylesheet" type="text/css" href="css/webdesign.css">
+        <!-- Bootstrap CDN -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <!-- Jquery -->
+        <script   src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="   crossorigin="anonymous"></script>
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="container-fluid" >
+            <nav class="navbar">
+                <div class="container-fluid" >
+                    <div class="navbar-header">
+                        <h1 class="header">Lattitude</h1>
+                    </div>
+                    <ul class="nav navbar-nav navbar-right navhead">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Plot <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="Webdesign_Visualization_temp.html">Temperature</a></li>
+                                <li><a href="Webdesign_Visualization_cloud.html">Cloudiness</a></li>
+                                <li><a href="Webdesign_Visualization_humidity.html">Humidity</a></li>
+                                <li><a href="Webdesign_Visualization_wind.html">Wind Speed</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="Webdesign-comparison.html">Comparison</a></li>
+                        <li><a href="Webdesign-data.html">Data</a></li>
+                        <li><a href="Webdesign-landing.html">Home</a></li>
+                    </ul>
+                </div> 
+            </nav> 
+ 
+            <div class="container-fluid" >
+                    <div class="background navmargin">
+                        <div class="row padding">
+                            <div class="col-md-12">
+                                <div class="panel panel-default height panelpadding">
+                                    <div class="panel-body panelpadding">
+    
+                                        <h2 class="colorfont">Summary: Lattitude vs Humidity</h2>
+                                        <hr>
+                                        <div class="text-center"><img class="invpic" src="images/HumidvsLat.png"> </div>
+                                        <div>
+                                        <p>
+                                        The main purpose of this project was to analyze how weather changed as you get closer to the equator. To accomplish this analysis, we first pulled data from thr OpenWeatherMap API to assemble a dataset on 500 cites.
+                                        </p>
+                                        <p>
+                                        After assembling the dataset, we used Matplotlib to plo tvarious aspects of weather vs. latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.
+                                        </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <div class="container-fluid" >
+                <div class="footer"><p>@Copyright</p></div>
+            </div>   
+        </div>  
+    </body>
+</html>
+
+
+
