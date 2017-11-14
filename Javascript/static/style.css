@@ -1,0 +1,42 @@
+body {
+  background-color:rgb(225, 229, 233);
+}
+
+/* .upperText {
+
+    text-transform: uppercase;
+}
+.properText {
+    
+    text-transform: capitalize;
+} */
+.wrapper {
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#headimage{
+    width: 100%;
+    height: 20vh;
+}
+.margingap{
+    margin-left: 10px;
+    margin-right: 10px
+}
+#scrollbar{
+    
+        overflow-y:scroll;
+        height: 55vh;
+   
+}
+
+.btn{
+
+    width: 80px;
+    height: 40px;
+
+}
+
+
+
